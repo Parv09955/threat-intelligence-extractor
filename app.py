@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🛡️ Automated Threat Intelligence Extractor")
+st.title("Automated Threat Intelligence Extractor")
 st.write(
     "An NLP-based application that automatically extracts and categorises cybersecurity entities, "
     "such as IP addresses, CVE identifiers, malware families, and threat actor names, "
