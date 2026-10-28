@@ -1,0 +1,13 @@
+Run the following codes in the terminal one-by-one:
+
+python -m pip install --upgrade pip
+pip install spacy streamlit pandas
+python -m spacy download en_core_web_sm
+
+To run the application:
+
+python -m streamlit run app.py
+
+Your browser should open the application at:
+
+http://localhost:8501
